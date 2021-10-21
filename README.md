@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenryQuillin.
-- 👀 I’m interested in Software Engineering, Euntreprenurhsip, Blockchain, and Crypto.
+- 👀 I’m interested in Software Engineering👨‍💻, Euntreprenurhsip💼, and Blockchain/Crypto⛓.
 - 📫 henryquillin@gmail.com
 - 📖 https://henryquillin.github.io 
 
